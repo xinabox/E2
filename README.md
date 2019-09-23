@@ -3,7 +3,7 @@ Repository for Microsoft Education Exchange 2019 events
 
 ## Firmware
 
-Find the [firmware files here] (https://github.com/xinabox/E2/releases/latest)
+Find the [firmware files here](https://github.com/xinabox/E2/releases/latest)
 
 ## Usage
 
